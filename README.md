@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+
 <!--
+![](./profile-3d-contrib/profile-season-animate.svg)
+
+
 **bar-alex/bar-alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
